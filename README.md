@@ -1,2 +1,12 @@
-# mi-sitio-web
-Where i'll host my website for my AI development company
+---
+title: mywebsite
+emoji: 🐳
+colorFrom: red
+colorTo: red
+sdk: static
+pinned: false
+tags:
+  - deepsite
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
